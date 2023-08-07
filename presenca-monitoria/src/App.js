@@ -13,13 +13,13 @@ function App() {
           </div>
           <div className="inputContainer">
             <label>Matricula</label>
-            <input placeholder="Ex: 20191011120005"></input>
+            <input placeholder="Ex: 20191011120005" type="number"></input>
           </div>
           <div className="inputContainer">
             <label>Turma</label>
             <input placeholder="Ex: T02"></input>
           </div>
-          <div className="inputContainer">
+          <div className="buttonContainer">
             <button>Enviar</button>
           </div>
         </div>
